@@ -1,0 +1,16 @@
+{
+  "name": "curriculum-firebase",
+  "version": "1.0.0",
+  "description": "get data api firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:johnaagudelo0820/curriculum-firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
